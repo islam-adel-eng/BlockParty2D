@@ -27,9 +27,7 @@ While still a simple game, it packs these cool features:
 
 1. Clone the repo and navigate inside:  
    ```bash
-   git clone https://github.com/islam-adel-eng/BlockParty2D.git
-
-   cd BlockParty2D
+   git clone https://github.com/islam-adel-eng/BlockParty2D.git && cd BlockParty2D
 2. Install dependencies:
    ```
    pip install -r requirements.txt
