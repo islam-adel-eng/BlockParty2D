@@ -4,6 +4,7 @@
 Is this a **color blindness test**? 🤔 Nope! It's a fun and simple **pixel-art game** where you must move to a **randomly selected color** in an image.  
 Inspired by the popular Minecraft minigame **"BlockParty"**, this game lets you **expand your experience** by adding any image to the `Resources/Images/Game Images` folder — no special formatting required! 🖼️✨
 
+[Watch demo video](Resurces/Preview.mp4)
 ---
 
 ## 🌟 Features
