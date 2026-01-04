@@ -45,7 +45,7 @@ While still a simple game, it packs these cool features:
 3. Run BlockParty2D.exe and enjoy! 🎉
 
 ## 🧑‍🎨 Credits
-The pixel-art images are **NOT** created by me. Please see Credits.txt for artist names and links. 🙏
+The pixel-art images are **NOT** created by me. Please see Credits.txt for artist names and links. :)
 
 Main menu music: "8 Bit Menu" by David Renda 🎵
 
